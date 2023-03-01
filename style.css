@@ -240,39 +240,3 @@ section{
     right: 600px;
 }
 
-footer {
-background-color: white;
-padding: 30px;
-height: 200px;
-width: 1770px;
-}
-
-.footerka{
-position: absolute;
-bottom: 50px;
--left: 80px;
-width: 120px;
-border: 7px solid lightcoral; border-radius: 30px;
-}
-
-.hohoho{
-position: absolute;
-bottom: 50px; left: 260px;
-width: 120px;
-border: 7px solid lightcoral; border-radius: 30px;
-}
-
-.yoyoyo{
-position: absolute;
-top: 10px;
-left: 600px; 
-height: 240px;
-width: 9000x;
-}
-
-.qwerty{
-float: left;
-right: 700px;
-padding: 50px;
-margin-top: 50px;
-}
